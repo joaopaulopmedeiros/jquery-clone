@@ -7,10 +7,10 @@
         "watch": "webpack --watch"
     },
     "keywords": [
-        "",
-        ""
+        "jquery",
+        "clone"
     ],
-    "author": "",
+    "author": "João Paulo M.",
     "license": "ISC",
     "dependencies": {
         "webpack": "^5.4.0",
