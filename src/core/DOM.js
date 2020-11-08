@@ -8,12 +8,12 @@ export const dom = () => {
     return this;
   };
 
-  Element.prototype.show = function (name) {
+  Element.prototype.show = function () {
     this.style.display = "block";
     return this;
   };
 
-  Element.prototype.hide = function (name) {
+  Element.prototype.hide = function () {
     this.style.display = "none";
     return this;
   };
